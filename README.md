@@ -76,13 +76,10 @@ Demo Stocks</string>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Original App
-
+no frontend only Postman tested at the moment
 [![Product Name Screen Shot][product-screenshot]](https://Spoiler.com)
 
-New Frontend Design
 
-[![Product Name Screen Shot][product-screenshot1]](https://Spoiler.com)
 
 
 <!-- Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description` -->
@@ -98,7 +95,6 @@ New Frontend Design
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
  
 
