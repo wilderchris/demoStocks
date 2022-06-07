@@ -76,8 +76,6 @@ Demo Stocks</string>
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://cdn.svgporn.com/logos/postman.svg" title="Postman" **alt="Postman" width="60" height="60"/>
-
 no frontend only Postman tested at the moment
 [![Product Name Screen Shot][product-screenshot]](https://Spoiler.com)
 
