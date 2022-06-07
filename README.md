@@ -75,6 +75,7 @@ Demo Stocks</string>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+<img src="https://cdn.svgporn.com/logos/postman.svg" title="Postman" **alt="Postman" width="60" height="60"/>
 
 no frontend only Postman tested at the moment
 [![Product Name Screen Shot][product-screenshot]](https://Spoiler.com)
@@ -91,6 +92,7 @@ no frontend only Postman tested at the moment
 ### Built With
 
 <div align="center">
+<img src="https://cdn.svgporn.com/logos/postman.svg" title="Postman" **alt="Postman" width="60" height="60"/>
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
